@@ -68,5 +68,32 @@ Esta seção é o cerne do projeto, onde o Pandas é usado para responder às qu
 
 **Análise Realizada:** Agregação por Estado e soma de Valor_Total_Venda (Top 5).
 
+### Como Executar o Projeto
+Pré-requisitos: Certifique-se de ter o Python (preferencialmente com o ambiente Anaconda/Miniconda) e o VS Code (com a extensão Jupyter) instalados.
 
+#### 1. Pré-requisitos: 
 
+Necessária o Python (preferencialmente com o ambiente Anaconda) e o VS Code (com a extensão Jupyter) instalados.
+
+#### 2. Clone o Repositório:
+
+```bash
+git clone <https://github.com/Samu3lsilvvv/Analise-Vendas-Ecommerce>
+cd Analise-Vendas-Ecommerce-Python
+```
+
+#### 3. Instalar as Dependências:
+
+Instale as bibliotecas necessárias para rodar o Notebook (Pandas, NumPy, Matplotlib, etc.).
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+#### 4.Iniciar o Notebook:
+
+Execute o Notebook usando o comando jupyter notebook e abra o arquivo codigo.ipynb no seu navegador. Alternativamente, abra o arquivo diretamente pelo VS Code.
+
+```bash
+jupyter notebook
+```
