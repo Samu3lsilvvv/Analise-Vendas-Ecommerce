@@ -22,7 +22,7 @@ O projeto foi desenvolvido em **Python** no ambiente **Jupyter Notebook**. As bi
 * **Matplotlib e Seaborn:** Para a criação e personalização de visualizações de dados.
 
 ### Metodologia e Estrutura do Notebook
-O notebook DSA-Python-MiniProjeto1.ipynb está organizado em seções que refletem o fluxo de trabalho padrão de um projeto de Data Science:
+O notebook codigo.ipynb está organizado em seções que refletem o fluxo de trabalho padrão de um projeto de Data Science:
 
 **Preparação dos Dados**
 
